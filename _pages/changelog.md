@@ -9,7 +9,7 @@ Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md
 
 
 
-<button><a href="www.google.com">Redirect</a></button>
+<button><a href="playplayduck://1234">Redirect</a></button>
 
 
 
